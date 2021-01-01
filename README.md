@@ -33,7 +33,7 @@
   <ul>
     <li>Create a file and insert json data</li>
     <li>Append on an existing file</li>
-    <li>Prevent from duplication</li>
+    <li>Prevent duplication</li>
   </ul>
 </li>
   <li>
@@ -44,7 +44,7 @@
   </ul>
 </li>
  <li>
-<h4>read()</h4>
+<h4>delete()</h4>
   <ul>
     <li>Check's files existance</li>
     <li>Delete's json object in file</li>
